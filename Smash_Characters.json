@@ -3,32 +3,32 @@
     {
       "name": "Mario",
       "id": "01",
-      "img": ""
+      "img": "./Char_Imgs/mario.png"
     },
     {
       "name": "Donkey Kong",
       "id": "02",
-      "img": ""
+      "img": "./Char_Imgs/mario.png"
     },
     {
       "name": "Link",
       "id": "03",
-      "img": ""
+      "img": "./Char_Imgs/mario.png"
     },
     {
       "name": "Samus",
       "id": "04",
-      "img": ""
+      "img": "./Char_Imgs/mario.png"
     },
     {
       "name": "Dark Samus",
       "id": "05",
-      "img": ""
+      "img": "./Char_Imgs/mario.png"
     },
     {
       "name": "Yoshi",
       "id": "06",
-      "img": ""
+      "img": "./Char_Imgs/mario.png"
     },
     {
       "name": "Kirby",
