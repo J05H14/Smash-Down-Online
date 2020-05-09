@@ -1,6 +1,6 @@
 # smash-down-online
 
-> A Vue.js project
+> External Web Application to allow player of Super Smash Bros. Ultimate to simulate playing the Smashdown game mode while playing in an online environment.
 
 ## Build Setup
 
